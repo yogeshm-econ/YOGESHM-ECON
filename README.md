@@ -1,9 +1,15 @@
-## Hi there 👋
+## Yogesh Mehta👋
+PhD Economics | UC Irvine  
+Quantitative research in financial markets, machine learning, and econometrics.
 
+- I am currently working on how generative AI is reshaping financial markets and institutional trading strategies. I combines econometric modeling and machine learning to analyze the influence of LLMs like ChatGPT on market behavior.
+- How to reach me: yogeshm@uci.edu, [LinkedIn](https://linkedin.com/in/m-yogesh)
 <!--
 **yogeshm-econ/YOGESHM-ECON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+I am a PhD economist currently working on how generative AI is reshaping financial markets and institutional trading strategies. I combines econometric modeling and machine learning to analyze the influence of models like ChatGPT on market behavior.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
